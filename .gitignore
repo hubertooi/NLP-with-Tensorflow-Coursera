@@ -1,0 +1,10 @@
+.vscode/
+__pycache__
+.ipynb_checkpoints
+.DS_Store
+C1/
+C2/
+C4/
+tensorflow-1-public.code-workspace
+tensorflow-1-submodule/
+nlp_venv/
